@@ -21,6 +21,12 @@ Aplicativo criado para a avaliação final da disciplina Desenvolvimento Web, of
 
 ## Funcionalidades
 
+- ``Login de usuário``
+- ``Busca de Livros``
+- ``Cadastro de Livros``
+- ``Alteração de Livros``
+- ``Remoção de Livros`` 
+
 ## Imagens
 
 ## Licença
