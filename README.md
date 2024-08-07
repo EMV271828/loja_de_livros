@@ -21,11 +21,17 @@ Aplicativo criado para a avaliação final da disciplina Desenvolvimento Web, of
 
 ## Funcionalidades
 
-- ``Login de usuário``
-- ``Busca de Livros``
-- ``Cadastro de Livros``
-- ``Alteração de Livros``
-- ``Remoção de Livros`` 
+- ``Login de usuário`` : O acesso às funcionalidades abaixo fica limitada uma conta com nome de usuário admin e senha 1234, não sendo possível criar outras contas de usuário neste aplicativo.
+  
+- ``Busca de Livros`` : Busca realizada por título, podendo ser realizada na página principal e na de administrador.
+  
+- ``Cadastro de Livros`` : Criação de um novo livro, disponível na página de administrador e de livros por gênero. Exemplo nas imagens: . 
+  
+- ``Edição de Livros`` : Alteração dos valores de um livro, feito na página de admnistrador e na página de livros por gênero. Exemplo nas imagens: . 
+  
+- ``Remoção de Livros`` : Remoção de um livro, feito na página de admnistrador e na página de livros por gênero. Exemplo nas imagens: .
+  
+- ``Compra de livros``: Adição de livros em um carrinho de compras, feito através da página de livros por gênero ou por busca. A finalização de uma compra não precisava ser implementada implementada. Exemplo nas imagens: .
 
 ## Imagens
 
